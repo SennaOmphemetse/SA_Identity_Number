@@ -1,1 +1,3 @@
 # SA_Identity_Number
+
+This repository holds a Java OOP code that is created to read a text file to identify the account written in that file. There are the names of the people and their identity numbers on the file that will be read by the code and solved. The age will be calculated from the identity number, and other attributes will be determined, like gender and whether the person is a South African citizen or permanent resident. The results will be printed on the console and also written in the new text called "SolvedSA".
